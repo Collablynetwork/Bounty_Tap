@@ -124,7 +124,6 @@ const Home = () => {
                 // Reset farming state
        
                 setCanClaim(true);
-                resetFarming();
             }
         } else {
             // Farming is not active, reset farming state
