@@ -6,7 +6,7 @@ const ReferralPage = () => {
 
     const handleInviteClick = () => {
         const referralCode = userData?.referralCode;
-        const appInviteLink = "http://t.me/notcoincollablybot/notcoinbot";
+        const appInviteLink = "http://t.me/bountytapbot/BountyTap";
 
         const message = `🚀 Join me on BountyTap and start earning rewards! 🚀
     
